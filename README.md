@@ -1,2 +1,2 @@
 # Psych
-A pygame based game
+A pygame based game with voice chat 
