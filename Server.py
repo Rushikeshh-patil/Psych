@@ -1,1 +1,3 @@
-import pygame 
+import pygame
+import sys
+import socket
