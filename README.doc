@@ -1,0 +1,11 @@
+# Psych
+A pygame based game with voice chat 
+
+Pygame Notes –
+1. The origin of the display, where x = 0 and y = 0, is the top left of the screen. Both axes increase positively towards the bottom right of the screen.
+2. Initialize a window or screen for display
+set_mode(size=(0, 0), flags=0, depth=0, display=0) -> Surface
+3. pygame.display.update()
+Update portions of the screen for software displays
+4. 
+
